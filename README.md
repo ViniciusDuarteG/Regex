@@ -84,3 +84,6 @@ Muito utilizado, principalmente para bots e automações, ou sistemas de buscas
 Exemplo: pegar mensagens que contenham números, mas não CPF:
 
     ^(?!.*\d{3}\.\d{3}\.\d{3}-\d{2}).*\d
+
+
+Informações, fontes: https://www.w3schools.com/python/python_regex.asp
